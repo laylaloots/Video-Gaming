@@ -1,0 +1,27 @@
+body {
+  background: rgb(247, 247, 247);
+}
+
+h1 {
+  color: rgb(176, 212, 212);
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.links {
+  text-align: center;
+  margin: 20px;
+}
+
+.links a {
+  margin: 10px;
+}
+
+.gaming-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 80%;
+}
