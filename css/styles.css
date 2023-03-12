@@ -3,12 +3,24 @@ body {
 }
 
 h1 {
-  color: rgb(176, 212, 212);
+  color: rgb(160, 112, 219);
+  margin: 20px;
   text-align: center;
 }
 
 p {
   text-align: center;
+  font-size: 16px;
+}
+
+.email {
+  color: rgb(160, 112, 219);
+}
+
+.gaming-image {
+  display: block;
+  margin: 0 auto;
+  max-width: 80%;
 }
 
 .links {
@@ -17,11 +29,6 @@ p {
 }
 
 .links a {
+  color: rgb(160, 112, 219);
   margin: 10px;
-}
-
-.gaming-image {
-  display: block;
-  margin: 0 auto;
-  max-width: 80%;
 }
